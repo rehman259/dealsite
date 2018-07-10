@@ -1,2 +1,2 @@
-# dealsite
-this is a deal site
+# demo-site
+this is a demo site
